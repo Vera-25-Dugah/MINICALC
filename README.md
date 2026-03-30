@@ -1,0 +1,2 @@
+# MINICALC
+AmaliAssignment1
